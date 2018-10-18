@@ -1,0 +1,17 @@
+cmd
+
+cd documents
+
+md project_name
+
+cd project_name
+
+https://conda.io/docs/user-guide/tasks/manage-environments.html
+
+conda create --name project_name
+
+activate project_name
+
+conda install --name project_name spyder jupyter seaborn
+
+
